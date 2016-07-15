@@ -3,13 +3,13 @@
         {
             "schema": {
                 "patternProperties": {
-                    "a++": {}
+                    "a)+": {}
                 }
             },
             "valid": false,
             "message": "common.patternProperties.member.notRegex",
             "msgData": {
-                "propertyName": "a++"
+                "propertyName": "a)+"
             },
             "msgParams": [ "propertyName" ]
         },
